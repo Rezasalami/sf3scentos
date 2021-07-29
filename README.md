@@ -21,3 +21,5 @@ df -h
 # umount s3fs 
 umount s3fs -f
 
+#windows Task
+"C:\Program Files\S3 Browser\s3browser-con.exe" sync arvanstorage.com X:\Backups s3:bakup ncdhs
